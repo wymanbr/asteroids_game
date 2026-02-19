@@ -24,14 +24,14 @@ An interactive arcade-style game built with Python and Pygame. The game features
 - Pygame
 
 ## How to Run
-Linux/macOS:
-source venv/bin/activate
+-Linux/macOS:
+-source venv/bin/activate
 
-Windows:
-venv\Scripts\activate
+-Windows:
+-venv\Scripts\activate
 
-pip install pygame
-pip install pygame_gui
+-pip install pygame
+-pip install pygame_gui
 
-python game.py
+-python game.py
 
